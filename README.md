@@ -11,9 +11,9 @@ Welcome to my github page.
 
 - 📫 How to reach me - email: l.mchugh1@outlook.com
 
-- 📫 How to reach me - LinkedIn https://www.linkedin.com/in/lucy-mchugh-6855a0250/
+- 📫 How to reach me - LinkedIn: https://www.linkedin.com/in/lucy-mchugh-6855a0250/
 
-- 👨‍💻 All of my projects are available at [lucymchugh.netlify.app](lucymchugh.netlify.app)
+- 👨‍💻 All of my projects are available at: [lucymchugh.netlify.app](lucymchugh.netlify.app)
 
 ---
 
