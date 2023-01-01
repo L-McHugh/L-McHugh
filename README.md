@@ -13,7 +13,7 @@ Welcome to my github page.
 
 - 📫 How to reach me - LinkedIn: https://www.linkedin.com/in/lucy-mchugh-6855a0250/
 
-- 👨‍💻 All of my projects are available at: [lucymchugh.netlify.app](https://www.lucymchugh.netlify.app)
+- 👨‍💻 All of my projects are available at: [https://lucymchugh.netlify.app](https://www.lucymchugh.netlify.app)
 
 ---
 
